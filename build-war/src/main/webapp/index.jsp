@@ -1,7 +1,7 @@
 <%@page import="org.nirkoren.maven.demo.HelloHandler"%>
 <html>
-<body style="background-color:gold ; font-family: arial;">
-	<h2>Welcome to DevOpsCon Demo repo</h2>
+<body style="background-color:silver ; font-family: arial;">
+	<h2>Welcome to among us Demo </h2>
 	CI/CD Workshop, Maven / Tomcat WAR example<P>
 	<%
 		String prefix = "<B>Text from Java class:</B> ";
